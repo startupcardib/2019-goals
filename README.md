@@ -7,3 +7,4 @@ Like many, I have a few things I'd like to achieve in the new year. Here's a pub
 - [ ] Monthly Startup Review - Take a stab at finding, highlighting, and projecting futures of promising companies and their markets
 - [ ] Black Overflow - build out community
 - [ ] Make 1st open source contribution
+- [ ] Tweephemeral - @mention account to have tweet dissolved in 60 seconds
